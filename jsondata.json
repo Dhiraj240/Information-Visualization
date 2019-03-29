@@ -1,0 +1,62 @@
+{
+    "1": {
+        "iD": "1",
+        "Name": "Dhiraj",
+        "Description": "Student",
+        "Category": "M"
+    },
+    "2": {
+        "iD": "2",
+        "Name": "Deepak",
+        "Description": "Student",
+        "Category": "M"
+    },
+    "3": {
+        "iD": "3",
+        "Name": "Anurag",
+        "Description": "Student",
+        "Category": "M"
+    },
+    "4": {
+        "iD": "4",
+        "Name": "Kapil",
+        "Description": "Student",
+        "Category": "M"
+    },
+    "5": {
+        "iD": "5",
+        "Name": "Varun",
+        "Description": "Employee",
+        "Category": "M"
+    },
+    "6": {
+        "iD": "6",
+        "Name": "Suresh",
+        "Description": "Employee",
+        "Category": "M"
+    },
+    "7": {
+        "iD": "7",
+        "Name": "Anil",
+        "Description": "Employee",
+        "Category": "M"
+    },
+    "8": {
+        "iD": "8",
+        "Name": "Neeraj",
+        "Description": "Startup",
+        "Category": "M"
+    },
+    "9": {
+        "iD": "9",
+        "Name": "Shilpi",
+        "Description": "Startup",
+        "Category": "F"
+    },
+    "10": {
+        "iD": "10",
+        "Name": "Shila",
+        "Description": "Startup",
+        "Category": "F"
+    }
+}
